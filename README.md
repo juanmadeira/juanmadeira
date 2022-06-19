@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirooh&theme=tokyonight)](https://github.com/hirooh/github-readme-stats)
+![hirooh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirooh&layout=compact&theme=tokyonight)
