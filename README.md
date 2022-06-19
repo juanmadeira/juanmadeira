@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirooh&layout=compact&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hirooh&repo=trenchmusic&theme=tokyonight)](https://github.com/hirooh/trenchmusic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirooh&layout=compact&theme=tokyonight&hide_border=true)
