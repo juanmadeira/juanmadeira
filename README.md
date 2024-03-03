@@ -6,4 +6,4 @@
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmadeira&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=juanmadeira&layout=compact&card_width=320&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=juanmadeira&theme=tokyonight&rank_icon=github&hide_border=true)
