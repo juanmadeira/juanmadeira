@@ -5,4 +5,5 @@
 [![](https://skillicons.dev/icons?i=html,css,js,postgres,mysql,php)](https://skillicons.dev)
 <br>
 <br>
+![](https://github-readme-stats.vercel.app/api?username=juanmadeira&layout=compact&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmadeira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
