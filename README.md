@@ -32,5 +32,5 @@
     <br>
     <a href="mailto:juan.madeira@furg.br"><img src="./img/email.gif" width="45"></a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/juan-madeira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"></a>
+    <a href="https://www.linkedin.com/in/juan-madeira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"></a>
 </div>
